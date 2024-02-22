@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DesignPatterns/DesignTimeBuild
+/.vs/DesignPatterns/FileContentIndex
+/.vs/DesignPatterns/v17
+/.vs/ProjectEvaluation

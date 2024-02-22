@@ -1,0 +1,15 @@
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DesignPatterns\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DesignPatterns\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DesignPatterns\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DesignPatterns\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DesignPatterns\obj\Debug\net8.0\Singleton.sourcelink.json
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DesignPatterns\bin\Debug\net8.0\Singleton.exe
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DesignPatterns\bin\Debug\net8.0\Singleton.deps.json
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DesignPatterns\bin\Debug\net8.0\Singleton.runtimeconfig.json
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DesignPatterns\bin\Debug\net8.0\Singleton.dll
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DesignPatterns\bin\Debug\net8.0\Singleton.pdb
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DesignPatterns\obj\Debug\net8.0\Singleton.dll
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DesignPatterns\obj\Debug\net8.0\refint\Singleton.dll
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DesignPatterns\obj\Debug\net8.0\Singleton.pdb
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DesignPatterns\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DesignPatterns\obj\Debug\net8.0\ref\Singleton.dll

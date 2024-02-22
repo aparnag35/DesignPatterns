@@ -1,0 +1,15 @@
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DependancyInjection\bin\Debug\net8.0\DependancyInjection.exe
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DependancyInjection\bin\Debug\net8.0\DependancyInjection.deps.json
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DependancyInjection\bin\Debug\net8.0\DependancyInjection.runtimeconfig.json
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DependancyInjection\bin\Debug\net8.0\DependancyInjection.dll
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DependancyInjection\bin\Debug\net8.0\DependancyInjection.pdb
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DependancyInjection\obj\Debug\net8.0\DependancyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DependancyInjection\obj\Debug\net8.0\DependancyInjection.AssemblyInfoInputs.cache
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DependancyInjection\obj\Debug\net8.0\DependancyInjection.AssemblyInfo.cs
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DependancyInjection\obj\Debug\net8.0\DependancyInjection.csproj.CoreCompileInputs.cache
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DependancyInjection\obj\Debug\net8.0\DependancyInjection.sourcelink.json
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DependancyInjection\obj\Debug\net8.0\DependancyInjection.dll
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DependancyInjection\obj\Debug\net8.0\refint\DependancyInjection.dll
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DependancyInjection\obj\Debug\net8.0\DependancyInjection.pdb
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DependancyInjection\obj\Debug\net8.0\DependancyInjection.genruntimeconfig.cache
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\DependancyInjection\obj\Debug\net8.0\ref\DependancyInjection.dll

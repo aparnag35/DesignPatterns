@@ -1,0 +1,15 @@
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\SimpleFactory\bin\Debug\net8.0\SimpleFactory.exe
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\SimpleFactory\bin\Debug\net8.0\SimpleFactory.deps.json
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\SimpleFactory\bin\Debug\net8.0\SimpleFactory.runtimeconfig.json
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\SimpleFactory\bin\Debug\net8.0\SimpleFactory.dll
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\SimpleFactory\bin\Debug\net8.0\SimpleFactory.pdb
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\SimpleFactory\obj\Debug\net8.0\SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\SimpleFactory\obj\Debug\net8.0\SimpleFactory.AssemblyInfoInputs.cache
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\SimpleFactory\obj\Debug\net8.0\SimpleFactory.AssemblyInfo.cs
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\SimpleFactory\obj\Debug\net8.0\SimpleFactory.csproj.CoreCompileInputs.cache
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\SimpleFactory\obj\Debug\net8.0\SimpleFactory.sourcelink.json
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\SimpleFactory\obj\Debug\net8.0\SimpleFactory.dll
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\SimpleFactory\obj\Debug\net8.0\refint\SimpleFactory.dll
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\SimpleFactory\obj\Debug\net8.0\SimpleFactory.pdb
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\SimpleFactory\obj\Debug\net8.0\SimpleFactory.genruntimeconfig.cache
+C:\Users\aparn\source\repos\DSSolve\DesignPatterns\SimpleFactory\obj\Debug\net8.0\ref\SimpleFactory.dll
